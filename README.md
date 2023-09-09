@@ -6,7 +6,7 @@
 
 ### Fazendo uso principalmente das tecnologias de Java + Spring e JavaScript + Angular e Bootstrap.
 
-#### Link para acesso: LINK DE ACESSO
+#### Link para acesso: https://moviesreview-app1.onrender.com
 #### Usuario: rodrigo
 #### Senha: 123456
 
