@@ -1,46 +1,47 @@
-# moviesreview
+# carwork
 
-## Projeto: MoviewsReview - Cadastre filmes e associe comentarios a esses filmes
+## Projeto: CarWork - Cadastre Clients e associe a esses Clients os seus Cars e informe os Works feitos a esses Cars
 
-### Basicamente é um sistema para criar um usuario com autenticação e esse usuario pode cadastrar movies e associar reviews a esse movie.
+### Basicamente é um sistema para criar um usuario com autenticação e esse usuario pode cadastrar um client e esse client pode ter um ou muitos cars
+### e ter works associados a esse car.
 
 ### Fazendo uso principalmente das tecnologias de Java + Spring e JavaScript + Angular e Bootstrap.
 
-#### Link para acesso: https://moviesreview-app1.onrender.com
-#### Usuario: rodrigo
-#### Senha: 123456
+#### Link para acesso: 
+#### Usuario: 
+#### Senha: 
 
 
 
-## 1 - Cadastrar um novo user
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/1%20-%20Cadastrar%20novo%20user.png" />
+## 1 - Tela de login      - OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/1%20-%20Tela%20de%20login.png" />
 
 
-## 2 - Tela de autenticacao
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/2%20-%20Tela%20de%20autenticacao.png" />
+## 2 - Tela de registro de User    - OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/2%20-%20Tela%20de%20registro%20de%20User%20-%201.png" />
 
 
-## 3 - Tela home
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/3%20-%20Home.png" />
+## 3 - Tela de registro de User - 2       OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/3%20-%20Tela%20de%20registro%20de%20User%20-%202.png" />
 
 
-## 4 - Tela de lista de movies
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/4%20-%20Lista%20de%20movies.png" />
+## 4 - Tela inicial do sistema      -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/4%20-%20Tela%20inicial%20do%20sistema.png" />
 
 
-## 5 - Tela de cadastro de movie
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/5%20-%20Cadastro%20de%20movie.png" />
+## 5 - Tela com lista de Clients vazia    -  OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/5%20-%20Tela%20com%20lista%20de%20Clients%20vazia.png" />
 
 
-## 6 - Tela de lista de reviews
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/6%20-%20Lista%20de%20reviews.png" />
+## 6 - Tela de cadastro de Client    - OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/6%20-%20Tela%20de%20cadastro%20de%20Client.png" />
 
 
-## 7 - Tela de cadastro de reviews 1
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/7%20-%20Cadastro%20de%20review%201.png" />
+## 7 - Preenchendo cadastro de Client    -  OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/7%20-%20Preenchendo%20cadastro%20de%20Client.png" />
 
 
-## 8 - Tela de cadastro de reviews 2
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/moviesreview/main/imagens/8%20-%20Cadastro%20de%20review%202.png" />
+## 8 - 8 - Lista de Client - 1      -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/8%20-%20Lista%20de%20Client%20-%201.png" />
 
 
