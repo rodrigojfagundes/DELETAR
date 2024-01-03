@@ -4,7 +4,7 @@
 
 ### Basicamente é um sistema para criar um usuario com autenticação e esse usuario pode cadastrar um client e esse client pode ter um ou muitos cars e ter um ou muitos works associados a esse car.
 
-### Fazendo uso principalmente das tecnologias de Java + Spring e JavaScript + Angular e Bootstrap.
+### Fazendo uso principalmente das tecnologias de Java + Spring e TypeScript + Angular e Bootstrap.
 
 #### Link para acesso: 
 #### Usuario: 
