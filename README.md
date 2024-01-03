@@ -81,7 +81,44 @@
 
 
 
+## 16 - Lista de Works vazia      -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/16%20-%20Lista%20de%20Works%20vazia.png" />
 
+
+
+
+
+## 17 - Selecionando a placa do Car que vai receber o Work      -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/17%20-%20Selecionando%20a%20placa%20do%20Car%20que%20vai%20receber%20o%20Work.png" />
+
+
+
+## 18 - Informando qual será o Work a ser feito para esse Car      -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/18%20-%20Informando%20qual%20ser%C3%A1%20o%20Work%20a%20ser%20feito%20para%20esse%20carro.png" />
+
+
+
+
+
+
+
+## 18 - Informando qual será o Work a ser feito para esse Car      -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/18%20-%20Informando%20qual%20ser%C3%A1%20o%20Work%20a%20ser%20feito%20para%20esse%20carro.png" />
+
+
+
+
+
+
+## 19 - Lista de Works com um Work cadastrado      -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/19%20-%20Lista%20de%20Works%20com%20um%20Work%20cadastrado.png" />
+
+
+
+
+
+## 20 - Lista de Works preenchida    -    OK
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/carwork/main/imagens/20%20-%20Lista%20de%20Works%20preenchida.png" />
 
 
 
