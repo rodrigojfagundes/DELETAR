@@ -5,6 +5,9 @@
 
 ### Fazendo uso principalmente das tecnologias de Java + JSF + PrimeFaces.
 
+
+#### Esta aplicação foi feita com seguindo o passo a passo do curso da AlgaWorks: JSF e PrimeFaces Essencial.
+
 #### Link para acesso: 
 #### Usuario: 
 #### Senha: 
