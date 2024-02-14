@@ -1,9 +1,9 @@
-# studentdiscipline
+# curso-jsf-primefaces-essencial
 
-## Projeto: StudentDiscipline - é um projeto que possibilita cadastrar varias disciplines de um curso, e cadastrar varios students. E cada discipline pode ter varios students e cada student pode ter varias disciplines, ou seja ManyToMany.
+## Projeto: O projeto é uma aplicação web que permite cadastrar várias empresas com a razão social, nome fantasia, CNPJ, etc... Também permite informar qual é o tipo da empresa (MEI, LTDA, SA) e possibilita informar qual o ramo de atividade da empresa. A relação entre empresa e tipo empresa é uma relação @ManyToOne, @OneToMany. Muitas empresas para um ramo de atividade. 
 
 
-### Fazendo uso principalmente das tecnologias de Java + Spring e TypeScript + Angular e Bootstrap.
+### Fazendo uso principalmente das tecnologias de Java + JSF + PrimeFaces.
 
 #### Link para acesso: 
 #### Usuario: 
