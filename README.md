@@ -29,7 +29,7 @@ utilizado principalmente as tecnologias: Java, Spring Boot, TestContainers, REST
 <img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/2%20-%20Swagger%20Integration%20Test.png" />
 
 
-## 2 - PersonController Integration Test
+## 3 - PersonController Integration Test
 <img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/3%20-%20Person%20Controller%20Integration%20Test.png" />
 
 
