@@ -1,45 +1,50 @@
-# java-unit-testing-with-spring-boot-3-and-junit5-and-mockito
+# java-junit-5-mockito-tdd-bdd
 
-## Repositório referente as sessões 9, 10, 11, 12 do curso Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito
+## Repositório referente as sessões 3, 4, 5, 6, 7, 8 do curso Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito
 ## do prof: Leandro Costa
 
-### Neste repositório foi realizado testes unitários nas camadas de PersonRepository, PersonServices e PersonController testando cada método dessas classes individualmente e verificando se os resultados estão conforme o esperado.
 
-- Neste repositório tem o conteudo das sessões a baixo:
--  9 - [SEÇÂO DE NIVELAMENTO] REST na Prática com Spring (Framework) Boot 3 e Java
--  10 - Testando uma API REST em Spring Boot 3 - Camada de Repositórios
--  11 - Testando uma API REST em Spring Boot 3 - Camada de Serviços
--  12 - Testando uma API REST em Spring Boot 3 - Camada de Controllers
+### Neste repositório foi apresentado uma visão geral sobre os testes unitários com Java, JUnit, Mockito, Stub, TDD, BDD, Hamcrest
 
-utilizado principalmente as tecnologias: Java, Spring Boot, JUnit, Mockito, Banco de Dados H2, BDD.
 
+Neste repositório tem o conteúdo das sessões a baixo:
+- 3 - Primeiros Passos com JUnit 5 e Java
+- 4 - Conceitos Avançados de JUnit 5
+- 5 - Test Driven Development (TDD)
+- 6 - Primeiros Passos em Mockito
+- 7 - Conceitos Avançados de Mockito
+- 8 - Code Coverage
+
+### Breve resumo:
 - Java;
 - Testes unitários com Junit 5;
   - Assertions JUnit: Equals/Not Equals e Null/NotNull;
   - Assertions JUnit: Same/Not Same e True/False;
   - Validar exceptions e timeouts;
   - Definir a ordem de execução de testes JUnit 5.
+- TDD;
 - BDD;
 - Mockito;
   - Aprenda a fazer mocks de forma eficiente;
   - Potencialize seus testes JUnit com Mockito.
-  - Spring Boot· ;
-- As annotations do Spring Boot para suporte à testes unitários;
 
 
 
 
-## 1 - Person Repository Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-unit-testing-with-spring-boot-3-and-junit5-and-mockito/main/imagens/1-PersonRepositoryTest.png" />
+## 1 - Todos os Testes
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/1-%20Todos%20os%20Testes.png" />
 
+## 2 - CourseBusiness Mock With BDD Test 
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/2%20-%20CourseBusinessMockWithBDDTest.png" />
 
-## 2 - Startup Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-unit-testing-with-spring-boot-3-and-junit5-and-mockito/main/imagens/2-StartupTest.png" />
+## 3 - CourseBusiness Stub Test 
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/3%20-%20CourseBusinessStubTest.png" />
 
-## 3 - Person Services Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-unit-testing-with-spring-boot-3-and-junit5-and-mockito/main/imagens/3-PersonServicesTest.png" />
+## 4 - List Test
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/4%20-%20ListTest.png" />
 
-## 4 - Person Controller Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-unit-testing-with-spring-boot-3-and-junit5-and-mockito/main/imagens/4-PersonControllerTest.png" />
+## 5 - CourseBusiness Mock Test
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/5%20-%20CourseBusinessMockTest.png" />
 
-
+## 6 - List With BDD Test
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/6%20-%20ListWithBDDTest.png" />
