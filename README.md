@@ -1,50 +1,35 @@
-# java-junit-5-mockito-tdd-bdd
+# java-and-spring-boot-3-integration-tests
 
-## Repositório referente as sessões 3, 4, 5, 6, 7, 8 do curso Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito
+## Repositório referente a sessão 13 do curso Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito
 ## do prof: Leandro Costa
 
+### Neste repositório foi realizado testes de integração na aplicação, testando todos os métodos de todas camadas (PersonRepository, PersonServices, PersonController) a partir de testes realizados na PersonControllerIntegrationTest, sendo assim possível verificar se o comportamento da aplicação ocorre conforme o esperado.
 
-### Neste repositório foi apresentado uma visão geral sobre os testes unitários com Java, JUnit, Mockito, Stub, TDD, BDD, Hamcrest
+- Neste repositório tem o conteudo da sessão a baixo:
+-  13 Testando uma API REST em Spring Boot 3 - Testes de Integração com Testcontainers
+
+utilizado principalmente as tecnologias: Java, Spring Boot, TestContainers, REST-Assured.
 
 
-Neste repositório tem o conteúdo das sessões a baixo:
-- 3 - Primeiros Passos com JUnit 5 e Java
-- 4 - Conceitos Avançados de JUnit 5
-- 5 - Test Driven Development (TDD)
-- 6 - Primeiros Passos em Mockito
-- 7 - Conceitos Avançados de Mockito
-- 8 - Code Coverage
-
-### Breve resumo:
 - Java;
-- Testes unitários com Junit 5;
-  - Assertions JUnit: Equals/Not Equals e Null/NotNull;
-  - Assertions JUnit: Same/Not Same e True/False;
-  - Validar exceptions e timeouts;
-  - Definir a ordem de execução de testes JUnit 5.
-- TDD;
-- BDD;
-- Mockito;
-  - Aprenda a fazer mocks de forma eficiente;
-  - Potencialize seus testes JUnit com Mockito.
+- Spring Boot;
+- TestContainers;
+- REST-assured;
+- Testes de integração com bancos de dados;
+- O papel do Docker nos testes de integração;
+- Spring Tool Suite e muito mais.
+
+
+## 1 - Testes das sessões 9 a 13
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/1%20-%20Testes%20das%20sess%C3%B5es%209%20ate%20a%2013.png" />
 
 
 
+## 2 - Swagger Integration Test
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/2%20-%20Swagger%20Integration%20Test.png" />
 
-## 1 - Todos os Testes
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/1-%20Todos%20os%20Testes.png" />
 
-## 2 - CourseBusiness Mock With BDD Test 
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/2%20-%20CourseBusinessMockWithBDDTest.png" />
+## 2 - PersonController Integration Test
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/3%20-%20Person%20Controller%20Integration%20Test.png" />
 
-## 3 - CourseBusiness Stub Test 
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/3%20-%20CourseBusinessStubTest.png" />
 
-## 4 - List Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/4%20-%20ListTest.png" />
-
-## 5 - CourseBusiness Mock Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/5%20-%20CourseBusinessMockTest.png" />
-
-## 6 - List With BDD Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-junit-5-mockito-tdd-bdd/main/imagens/6%20-%20ListWithBDDTest.png" />
