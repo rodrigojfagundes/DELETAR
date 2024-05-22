@@ -1,35 +1,37 @@
-# java-and-spring-boot-3-integration-tests
-
-## Repositório referente a sessão 13 do curso Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito
-## do prof: Leandro Costa
-
-### Neste repositório foi realizado testes de integração na aplicação, testando todos os métodos de todas camadas (PersonRepository, PersonServices, PersonController) a partir de testes realizados na PersonControllerIntegrationTest, sendo assim possível verificar se o comportamento da aplicação ocorre conforme o esperado.
-
-- Neste repositório tem o conteudo da sessão a baixo:
--  13 Testando uma API REST em Spring Boot 3 - Testes de Integração com Testcontainers
-
-utilizado principalmente as tecnologias: Java, Spring Boot, TestContainers, REST-Assured.
-
-
-- Java;
-- Spring Boot;
-- TestContainers;
-- REST-assured;
-- Testes de integração com bancos de dados;
-- O papel do Docker nos testes de integração;
-- Spring Tool Suite e muito mais.
-
-
-## 1 - Testes das sessões 9 a 13
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/1%20-%20Testes%20das%20sess%C3%B5es%209%20ate%20a%2013.png" />
+# clientsproducts
 
 
 
-## 2 - Swagger Integration Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/2%20-%20Swagger%20Integration%20Test.png" />
+
+- Java 17
+- Spring Boot 3.1.1
+- H2
+- Spring Security
+- Spring Data
+- JWT
 
 
-## 3 - PersonController Integration Test
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/java-and-spring-boot-3-integration-tests/main/Imagens/3%20-%20Person%20Controller%20Integration%20Test.png" />
+## 1 - Post Register User
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/1%20-%20Post%20Register%20User.png" />
 
+## 2 - Post Login User
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/2%20-%20Post%20Login%20User.png" />
+
+## 3 - Post Client
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/3%20-%20Post%20Clients.png" />
+
+## 4 - Get Clients - 1
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/4%20-%20Get%20Clients.png" />
+
+## 5 - Get Clients - 2
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/5%20-%20Get%20Clients.png" />
+
+## 6 - Post Product
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/6%20-%20Post%20Product.png" />
+
+## 7 - Get Products
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/7%20-%20Get%20Products.png" />
+
+## 8 - Get Clients
+<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/8%20-%20Get%20Clients.png" />
 
