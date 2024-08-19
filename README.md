@@ -1,17 +1,18 @@
-# clientsproducts
+# minimarkets
 
 
-
-
+## Backend
 - Java 11
 - Spring Boot 2.4.4
 - Spring Boot Starter Web
 - Spring Boot Starter Web Service
-- H2
 - Spring Security
 - Spring Data
 - JWT
 - Oauth2
+- JPA/Hibernate
+- H2
+- JUnit Tests
 
 ## 1 -  Tela de Registro de Usuario
 <img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/1%20-%20Tela%20de%20Registro%20de%20Usuario.png" />
