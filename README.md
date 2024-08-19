@@ -3,35 +3,79 @@
 
 
 
-- Java 17
-- Spring Boot 3.1.1
+- Java 11
+- Spring Boot 2.4.4
+- Spring Boot Starter Web
+- Spring Boot Starter Web Service
 - H2
 - Spring Security
 - Spring Data
 - JWT
+- Oauth2
 
+## 1 -  Tela de Registro de Usuario
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/1%20-%20Tela%20de%20Registro%20de%20Usuario.png" />
 
-## 1 - Post Register User
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/1%20-%20Post%20Register%20User.png" />
+## 2 - Fazendo Login
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/2%20-%20Fazendo%20Login.png" />
 
-## 2 - Post Login User
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/2%20-%20Post%20Login%20User.png" />
+## 3 - Tela Inicial
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/3%20-%20Tela%20Inicial.png" />
 
-## 3 - Post Client
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/3%20-%20Post%20Clients.png" />
+## 4 - Tela de Categorias Vazia
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/4%20-%20Tela%20de%20Categorias%20Vazia.png" />
 
-## 4 - Get Clients - 1
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/4%20-%20Get%20Clients.png" />
+## 5 - Cadastrando Categoria
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/5%20-%20Cadastrando%20Categoria.png" />
 
-## 5 - Get Clients - 2
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/5%20-%20Get%20Clients.png" />
+## 6 - Visualizando Categoria
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/6%20-Visualizando%20Categoria.png" />
 
-## 6 - Post Product
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/6%20-%20Post%20Product.png" />
+## 7 - Editando Categoria
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/7%20-%20Editando%20Categoria.png" />
 
-## 7 - Get Products
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/7%20-%20Get%20Products.png" />
+## 8 - Mostrando Categoria Editada
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/8%20-%20Mostrando%20Categoria%20Editada.png" />
 
-## 8 - Get Clients
-<img src="https://raw.githubusercontent.com/rodrigojfagundes/clientsproducts/main/imagens/8%20-%20Get%20Clients.png" />
+## 9 - Perguntando se quer Deletar Categoria
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/9%20-%20Perguntando%20se%20quer%20Deletar%20Categoria.png" />
+
+## 10 - Categoria Deletada
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/10%20-%20Categoria%20Deletada.png" />
+
+## 11 - Tela de Produtos
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/11%20-%20Tela%20de%20Produtos.png" />
+
+## 12 - Cadastrando Produto
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/12%20-%20Cadastrando%20Produto.png" />
+
+## 13 - Visualizando Produtos Cadastrados
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/13%20-%20Visualizando%20Produtos%20Cadastrados.png" />
+
+## 14 - Editando Produto
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/14%20-%20Editando%20Produto.png" />
+
+## 15 - Visualizando Produto Editado
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/15%20-%20Visualizando%20Produtos%20Editado.png" />
+
+## 16 - Perguntando se quer Deletar Produto
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/16%20-%20Perguntando%20se%20quer%20Deletar%20Produto.png" />
+
+## 17 - Produto Deletado
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/17%20-%20Produto%20Deletado.png" />
+
+## 18 - Swagger OpenAPI - 1
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/18%20-%20Swagger%20API%20-%201.png" />
+
+## 19 - Swagger OpenAPI - 2
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/19%20-%20Swagger%20API%20-%202.png" />
+
+## 20 - Swagger OpenAPI - 3
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/20%20-%20Swagger%20API%20-%203.png" />
+
+## 21 - Testes Unitarios - 1
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/21%20-%20Testes%20Unitarios%20-%201.png" />
+
+## 22 - Testes Unitarios - 2
+<img src="https://github.com/rodrigojfagundes/DELETAR/blob/main/imagens/22%20-%20Testes%20Unitarios%20-%202.png" />
 
