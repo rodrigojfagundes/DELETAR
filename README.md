@@ -21,7 +21,7 @@
 - Angular
 - Bootstrap
 
-## 1 -  Tela de Registro de Usuario
+## 1 -  Tela de Registro de Usuário
 <img src="https://github.com/rodrigojfagundes/minimarket/blob/main/imagens/1%20-%20Tela%20de%20Registro%20de%20Usu%C3%A1rio.png" />
 
 ## 2 - Fazendo Login
@@ -81,9 +81,9 @@
 ## 20 - Swagger OpenAPI - 3
 <img src="https://github.com/rodrigojfagundes/minimarket/blob/main/imagens/20%20-%20Swagger%20OpenAPI%20-%203.png" />
 
-## 21 - Testes Unitarios - 1
+## 21 - Testes Unitários - 1
 <img src="https://github.com/rodrigojfagundes/minimarket/blob/main/imagens/21%20-%20Testes%20Unit%C3%A1rios%20-%201.png" />
 
-## 22 - Testes Unitarios - 2
+## 22 - Testes Unitários - 2
 <img src="https://github.com/rodrigojfagundes/minimarket/blob/main/imagens/22%20-%20Testes%20Unit%C3%A1rios%20-%202.png" />
 
