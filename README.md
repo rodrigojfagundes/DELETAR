@@ -16,10 +16,10 @@
 - JUnit Tests
 - Mockito
 
-  ## Frontend
-  - TypeScript
-  - Angular
-  - Bootstrap
+## Frontend
+- TypeScript
+- Angular
+- Bootstrap
 
 ## 1 -  Tela de Registro de Usuario
 <img src="https://github.com/rodrigojfagundes/minimarket/blob/main/imagens/1%20-%20Tela%20de%20Registro%20de%20Usu%C3%A1rio.png" />
