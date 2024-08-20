@@ -1,18 +1,25 @@
 # minimarkets
 
 
+
 ## Backend
 - Java 11
 - Spring Boot 2.4.4
 - Spring Boot Starter Web
-- Spring Boot Starter Web Service
 - Spring Security
-- Spring Data
 - JWT
 - Oauth2
+- Spring Data
 - JPA/Hibernate
 - H2
+- Spring Boot Starter Test
 - JUnit Tests
+- Mockito
+
+  ## Frontend
+  - TypeScript
+  - Angular
+  - Bootstrap
 
 ## 1 -  Tela de Registro de Usuario
 <img src="https://github.com/rodrigojfagundes/minimarket/blob/main/imagens/1%20-%20Tela%20de%20Registro%20de%20Usu%C3%A1rio.png" />
